@@ -2,7 +2,7 @@
 
 Learn the basics of Git and Github. Have fun. All exercises are meant to be completed with a partner, because everything is more fun in pairs.
 
-## Basic Work
+## Basic Workflow
 
 > Only one person (user a) needs to do this part.
 
